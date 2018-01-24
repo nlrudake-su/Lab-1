@@ -56,3 +56,16 @@ html{
     margin: 20px;
 }
 
+.blog-post{
+    margin: 10px;
+    background-color: #ffffff;
+    border: #D3D3D3;
+    border-radius: 5px;
+    padding: 10px
+}
+
+.blog-post img{
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
